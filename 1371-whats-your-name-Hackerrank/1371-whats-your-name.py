@@ -1,8 +1,5 @@
-a=3
-b=2
-print(a+b)
-print(a-b)
-print(a*b)
+def print_full_name(first_name,last_name):
+    print("Hello",first_name,last_name + "!","You just delved into python.")
 
 
 # Synced seamlessly with LeetHub Pro
